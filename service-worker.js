@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/roskimag-website/precache-manifest.19bda974c0cb8da445bcb0d7b2abf041.js"
+  "/roskimag-website/precache-manifest.5d60b21b2dab31fe4146a4c5a42983a9.js"
 );
 
 workbox.clientsClaim();
