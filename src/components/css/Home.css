@@ -1,0 +1,55 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	background-color: #F0F0F0
+}
+
+.home-container {
+	display: grid;
+	grid-template-rows: 470px 150px;
+	margin-top: -2%;
+}
+
+.home-body {
+	display: grid;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	line-height: normal;
+	font-size: 5.2em;
+	justify-content: center;
+	align-items: center;
+}
+
+.home-apply {
+	display: grid;	
+	justify-content: center;
+	align-items: center;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.home-vector1 {
+	width: 180px;
+	opacity: 0.95;
+	margin-top: 95px;
+	margin-left: 10px;
+}
+
+.home-apply-link {
+	position: fixed;
+	color: white;
+	text-decoration: none;
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: 1.2em;
+	margin-top: 135px;
+	margin-left: 50px;
+}

@@ -1,0 +1,28 @@
+body {
+	background-color: #F0F0F0
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.logo {
+    width: 220px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.submissions-link {
+    position: fixed;
+	color: black;
+	font-family: "Arial", sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: right;
+    margin-left: auto;
+    margin-left: 68%;
+    margin-top: 2.2%;
+}

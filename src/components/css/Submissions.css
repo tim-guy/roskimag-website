@@ -1,0 +1,43 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	background-color: #F0F0F0
+}
+
+form {
+	display: grid;
+	grid-template-columns: 325px 325px;
+	grid-column-gap: 100px;	
+	grid-row-gap: 20px;
+	justify-content: center;
+	align-items: center;
+	margin-top: 6%
+}
+
+.submit {
+	background-color: #FC08D5; /* Pink */
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	height: 32px;
+	width: 80px;
+}
+
+.disclaimer {
+	display: grid;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: .6em;
+	grid-column: 1 / 3;
+}
