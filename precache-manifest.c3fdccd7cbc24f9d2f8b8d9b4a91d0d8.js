@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/roskimag-website/static/js/runtime~main.bde3068f.js"
   },
   {
-    "revision": "44314ccc15db3c8eb2df",
-    "url": "/roskimag-website/static/js/main.44314ccc.chunk.js"
+    "revision": "bb3082125f15a4a08011",
+    "url": "/roskimag-website/static/js/main.bb308212.chunk.js"
   },
   {
-    "revision": "8325ea21f617a2642505",
-    "url": "/roskimag-website/static/js/1.8325ea21.chunk.js"
+    "revision": "9477ace7676cb082adf2",
+    "url": "/roskimag-website/static/js/1.9477ace7.chunk.js"
   },
   {
-    "revision": "44314ccc15db3c8eb2df",
-    "url": "/roskimag-website/static/css/main.fe05a428.chunk.css"
+    "revision": "bb3082125f15a4a08011",
+    "url": "/roskimag-website/static/css/main.e5d83677.chunk.css"
   },
   {
-    "revision": "5197bc5f8bb849273974ead9396cc6dc",
+    "revision": "cf8f85a13dcda65c9d90ac1012e898f8",
     "url": "/roskimag-website/index.html"
   }
 ];
