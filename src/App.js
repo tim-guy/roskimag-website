@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 import Nav from './components/Nav';
 import Home from './components/Home';
@@ -13,7 +14,14 @@ class App extends Component {
   render() {
     return (
       <div>
-        Test
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
+            <div>
+              <Nav />
+              <Route path="/" component={Home} exact />
+              <Route path="/submissions" component={Submissions} exact />
+              <Route path="/view-submissions" component={ViewSubmissions} exact />
+            </div>
+          </BrowserRouter>
       </div>
     );
   }
