@@ -1,6 +1,6 @@
 {
   "name": "roskimag-website",
-  "homepage": "https://www.roskimag.com",
+  "homepage": "https://roskimag.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
