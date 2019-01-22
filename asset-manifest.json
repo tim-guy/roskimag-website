@@ -1,15 +1,15 @@
 {
-  "main.css": "/roskimag-website/static/css/main.e5d83677.chunk.css",
-  "main.js": "/roskimag-website/static/js/main.bb308212.chunk.js",
-  "main.js.map": "/roskimag-website/static/js/main.bb308212.chunk.js.map",
-  "static/js/1.9477ace7.chunk.js": "/roskimag-website/static/js/1.9477ace7.chunk.js",
-  "static/js/1.9477ace7.chunk.js.map": "/roskimag-website/static/js/1.9477ace7.chunk.js.map",
-  "runtime~main.js": "/roskimag-website/static/js/runtime~main.bde3068f.js",
-  "runtime~main.js.map": "/roskimag-website/static/js/runtime~main.bde3068f.js.map",
-  "static/css/main.e5d83677.chunk.css.map": "/roskimag-website/static/css/main.e5d83677.chunk.css.map",
-  "static/media/RM_logo.png": "/roskimag-website/static/media/RM_logo.be518403.png",
-  "static/media/RM_blob.png": "/roskimag-website/static/media/RM_blob.55968c57.png",
-  "index.html": "/roskimag-website/index.html",
-  "precache-manifest.c3fdccd7cbc24f9d2f8b8d9b4a91d0d8.js": "/roskimag-website/precache-manifest.c3fdccd7cbc24f9d2f8b8d9b4a91d0d8.js",
-  "service-worker.js": "/roskimag-website/service-worker.js"
+  "main.css": "/static/css/main.e5d83677.chunk.css",
+  "main.js": "/static/js/main.baeb21ee.chunk.js",
+  "main.js.map": "/static/js/main.baeb21ee.chunk.js.map",
+  "static/js/1.f0f93cb6.chunk.js": "/static/js/1.f0f93cb6.chunk.js",
+  "static/js/1.f0f93cb6.chunk.js.map": "/static/js/1.f0f93cb6.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.e5d83677.chunk.css.map": "/static/css/main.e5d83677.chunk.css.map",
+  "static/media/RM_logo.png": "/static/media/RM_logo.be518403.png",
+  "static/media/RM_blob.png": "/static/media/RM_blob.55968c57.png",
+  "index.html": "/index.html",
+  "precache-manifest.fce996b6724f83e94c89d0b21c79db40.js": "/precache-manifest.fce996b6724f83e94c89d0b21c79db40.js",
+  "service-worker.js": "/service-worker.js"
 }
