@@ -16,7 +16,7 @@ const Home = () => {
 
 			<div className="home-apply">
 				<img src={blob} alt="blob" className="home-vector1" />
-				<p className="home-apply-link">AF1S ARE GIRL SHOES</p>
+				<p className="home-apply-link">apply here</p>
 			</div>
 		</div>
 	);
