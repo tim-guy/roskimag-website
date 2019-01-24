@@ -37,10 +37,10 @@ body {
 }
 
 .home-vector1 {
-	width: 180px;
+	width: 255px;
 	opacity: 0.95;
 	margin-top: 95px;
-	margin-left: 10px;
+	margin-left: 0px;
 }
 
 .home-apply-link {
@@ -49,7 +49,7 @@ body {
 	text-decoration: none;
 	font-family: "Arial", sans-serif;
 	font-weight: bolder;
-	font-size: 1.2em;
-	margin-top: 135px;
-	margin-left: 50px;
+	font-size: 1.1em;
+	margin-top: 148px;
+	margin-left: 60px;
 }
