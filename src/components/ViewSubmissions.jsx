@@ -39,5 +39,3 @@ export default class ViewSubmissions extends Component {
     )
   }
 }
-
-
