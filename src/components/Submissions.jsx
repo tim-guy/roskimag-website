@@ -8,7 +8,7 @@ export default class Submissions extends Component {
 		super(props);
 		this.ref = firebase.firestore().collection('submissions');
 		this.state = {
-			name: '', title: '', email: '', medium: '', year: '', dateCompleted: '', school: '', websiteLink: '', artistStatement: '', link: ''
+			name: '', title: '', email: '', medium: '', year: '', dateCompleted: '', school: '', websiteLink: '', artistStatement: '', link: '', comments: ''
 		};
 
 		this.handleChange = this.handleChange.bind(this);
@@ -24,10 +24,10 @@ export default class Submissions extends Component {
 	handleSubmit(event) {
 		event.preventDefault();
 
-		const { name, title, email, medium, year, dateCompleted, school, websiteLink, artistStatement, link } = this.state;
-		this.ref.add({ name, title, email, medium, year, dateCompleted, school, websiteLink, artistStatement, link }).then((docRef) => {
+		const { name, title, email, medium, year, dateCompleted, school, websiteLink, artistStatement, link, comments } = this.state;
+		this.ref.add({ name, title, email, medium, year, dateCompleted, school, websiteLink, artistStatement, link, comments }).then((docRef) => {
 			this.setState({
-				name: '', title: '', email: '', medium: '', year: '', dateCompleted: '', school: '', websiteLink: '', artistStatement: '', link: ''
+				name: '', title: '', email: '', medium: '', year: '', dateCompleted: '', school: '', websiteLink: '', artistStatement: '', link: '', comments: ''
 			});
 		})
 		.catch((error) => {

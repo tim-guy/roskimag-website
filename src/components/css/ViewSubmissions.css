@@ -1,1 +1,8 @@
-/* Blank */
+.header{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.comments {
+    width: 40%;
+}
