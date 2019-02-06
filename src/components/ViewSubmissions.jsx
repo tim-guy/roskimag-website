@@ -35,6 +35,7 @@ export default class ViewSubmissions extends Component {
     render() {
     return (
         <div>
+            View Submissions Here...
         </div>
     )
   }

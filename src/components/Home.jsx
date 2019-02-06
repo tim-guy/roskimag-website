@@ -16,7 +16,6 @@ const Home = () => {
 
 			<div className="home-apply">
 				<img src={blob} alt="blob" className="home-vector1" />
-				<a className="home-apply-link">S19 APPS ARE<br/>NOW CLOSED</a>
 			</div>
 		</div>
 	);
