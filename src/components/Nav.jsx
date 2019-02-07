@@ -11,6 +11,9 @@ export default class Nav extends Component {
         <Link to="/">
         <img src={logo} alt="logo" className="logo" />
         </Link>
+        <Link to="/archive">
+        <p className="archive-link">MAGS</p>
+        </Link>
         <Link to="/submissions">
         <p className="submissions-link">SUBMISSIONS</p>
         </Link>

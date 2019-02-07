@@ -14,6 +14,20 @@ body {
     margin-top: 10%;
 }
 
+.archive-link {
+    position: fixed;
+	color: black;
+	font-family: "Arial", sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: right;
+    margin-left: auto;
+    margin-left: 60%;
+    margin-top: 2.2%;
+}
+
+
 .submissions-link {
     position: fixed;
 	color: black;

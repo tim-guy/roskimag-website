@@ -1,0 +1,12 @@
+.image {
+    margin: auto auto 15px 15px;
+    display: inline-block;
+    height: 400px;
+}
+
+.image-container {
+    padding-top: 8%;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: visible;
+}
