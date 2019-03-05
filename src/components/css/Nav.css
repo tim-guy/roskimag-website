@@ -9,9 +9,10 @@ body {
 }
 
 .logo {
+    position: fixed;
     width: 220px;
-    margin-left: 10%;
-    margin-top: 10%;
+    margin-left: 1%;
+    margin-top: 1%;
 }
 
 .archive-link {
@@ -23,10 +24,9 @@ body {
     font-size: 18px;
     text-align: right;
     margin-left: auto;
-    margin-left: 60%;
+    margin-left: 77%;
     margin-top: 2.2%;
 }
-
 
 .submissions-link {
     position: fixed;
@@ -37,6 +37,6 @@ body {
     font-size: 18px;
     text-align: right;
     margin-left: auto;
-    margin-left: 68%;
+    margin-left: 85%;
     margin-top: 2.2%;
 }

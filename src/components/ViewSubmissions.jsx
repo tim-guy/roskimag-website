@@ -41,7 +41,7 @@ export default class ViewSubmissions extends Component {
                         <ul className="submission-header">
                             <li>
                                 <div onClick="">{submission.title} by {submission.name}</div>
-                                (<a href="{submission.link}" target="_blank">link to work</a>) 
+                                (<a href={submission.link} target="_blank">link to work</a>) 
                                 (<a href={submission.websiteLink} target="_blank">link to artist website</a>)
                             </li>
                             <ul>

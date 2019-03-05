@@ -4,7 +4,6 @@ export default class Mag006 extends Component {
   render() {
     return (
       <div>
-        Coming soon...
       </div>
     )
   }

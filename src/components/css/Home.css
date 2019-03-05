@@ -15,7 +15,7 @@ body {
 .home-container {
 	display: grid;
 	grid-template-rows: 470px 150px;
-	margin-top: -4%;
+	margin-top: 2%;
 }
 
 .home-body {
