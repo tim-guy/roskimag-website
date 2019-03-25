@@ -1,5 +1,7 @@
 body {
-	background-color: #F0F0F0
+    background-color: #F0F0F0;
+    max-height: 100%;
+    max-width:100%;
 }
 
 .nav-container {
@@ -10,9 +12,16 @@ body {
 
 .logo {
     position: fixed;
-    width: 220px;
-    margin-left: 1%;
-    margin-top: 1%;
+    width: 200px;
+    margin-left: 2.5%;
+    margin-top: 2%;
+}
+
+.sticker-mule-logo {
+    position: fixed;
+    width: 180px;
+    margin-left: 85%;
+    margin-top: 49%;
 }
 
 .archive-link {
@@ -24,7 +33,7 @@ body {
     font-size: 18px;
     text-align: right;
     margin-left: auto;
-    margin-left: 77%;
+    margin-left: 69%;
     margin-top: 2.2%;
 }
 
@@ -37,6 +46,19 @@ body {
     font-size: 18px;
     text-align: right;
     margin-left: auto;
-    margin-left: 85%;
+    margin-left: 77%;
+    margin-top: 2.2%;
+}
+
+.blog-link {
+    position: fixed;
+	color: black;
+	font-family: "Arial", sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: right;
+    margin-left: auto;
+    margin-left: 90%;
     margin-top: 2.2%;
 }
