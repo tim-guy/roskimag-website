@@ -15,7 +15,7 @@ const Home = () => {
 			</p>
 
 			<div className="home-apply">
-				<a href="http://roskimag.com/#/submissions"><img src={blob} alt="blob" className="home-vector1" /></a>
+				<a href="https://roskimag.typeform.com/to/iNTsO3"><img src={blob} alt="blob" className="home-vector1" /></a>
 			</div>
 		</div>
 	);
